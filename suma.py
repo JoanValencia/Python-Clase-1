@@ -1,4 +1,4 @@
-﻿ -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 valor1 = input("Ingrese el primer valor: ")
 valor2 = input("Ingrese el segundo valor: ")
 
@@ -11,4 +11,4 @@ print str(valor1) + " + " + str(valor2) + " = " + str(suma)
 print str(valor1) + " - " + str(valor2) + " = " + str(resta)
 print str(valor1) + " * " + str(valor2) + " = " + str(multip)
 print str(valor1) + " / " + str(valor2) + " = " + str(divis)
-print "ó"
+
